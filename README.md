@@ -7,6 +7,11 @@
 <h1 align="center">browser-use-js 🤖</h1>
 
 [![GitHub stars](https://img.shields.io/github/stars/datvt-pexdia/browser-use-js?style=social)](https://github.com/datvt-pexdia/browser-use-js/stargazers)
+[![npm version](https://img.shields.io/npm/v/browser-use-js.svg)](https://www.npmjs.com/package/browser-use-js)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)](https://www.ecma-international.org/ecma-262/)
+[![Playwright](https://img.shields.io/badge/Playwright-1.40+-blue)](https://playwright.dev/)
+[![LangChain](https://img.shields.io/badge/LangChain-0.1.9+-green)](https://js.langchain.com/)
 
 🌐 browser-use-js is a JavaScript port of the [original Python project](https://github.com/browser-use/browser-use), making it easy to connect AI agents with web browsers using JavaScript.
 
