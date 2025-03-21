@@ -6,7 +6,7 @@
 
 <h1 align="center">browser-use-js 🤖</h1>
 
-[![GitHub stars](https://img.shields.io/github/stars/gregpr07/browser-use?style=social)](https://github.com/gregpr07/browser-use/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/datvt-pexdia/browser-use-js?style=social)](https://github.com/datvt-pexdia/browser-use-js/stargazers)
 
 🌐 browser-use-js is a JavaScript port of the [original Python project](https://github.com/browser-use/browser-use), making it easy to connect AI agents with web browsers using JavaScript.
 
